@@ -1,0 +1,6 @@
+all wishbone interface should be high 
+
+
+Wishbone signals 
+1: clk " wishbone input signals are stable and the output singals are registerd at the rising edge of the clock " 
+2: TDG - data type tag " it contains the information associated with input array and it is qualified with strobe signals" 
